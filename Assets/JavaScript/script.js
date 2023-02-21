@@ -1,8 +1,9 @@
-
 //Dependencies
-var past = $('.row time-block past');
-var present= $('.row time-block present');
-var future= $('.row time-block future');
+var timeBlock= $('.time-block');
+var present= $('.present');
+var future= $('.future');
+var past= $('.past');
+var description= $('.description');
 var save= $('.saveBtn');
 var currentDay= $('currentDay');  
 
